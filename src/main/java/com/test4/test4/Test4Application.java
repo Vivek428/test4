@@ -11,6 +11,7 @@ String name = "mike"
 char x = 'a';
 double = 0.0;
 float = 32.5g;
+char ch = 'x';
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 	}
